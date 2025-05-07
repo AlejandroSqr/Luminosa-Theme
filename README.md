@@ -2,7 +2,7 @@
 
   # Luminosa Theme. A white theme for Blender.
 
-![alt text](**** "NocturnaPreview")
+![alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/LuminosaTN.png "LuminosaPreview")
 
 Created in Blender 4.4.0. The Interface can be installed on previous instances, but may differ slightly from the current version.
 
