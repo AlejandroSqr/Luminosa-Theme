@@ -16,6 +16,6 @@ Created in Blender 4.4.0. The Interface can be installed on previous instances, 
 
 # Screenshots
 
-[alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/LayoutTnw.png "LayoutTN")
-[alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/SculptTNW.png "SculptTN")
-[alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/UVWSTN.png "UvTN")
+![alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/LayoutTnw.png "LayoutTN")
+![alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/SculptTNW.png "SculptTN")
+![alt text](https://github.com/AlejandroSqr/Luminosa-Theme/blob/main/assets/UVWSTN.png "UvTN")
